@@ -9,10 +9,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=ParimalTank)
-
-
-<p align="left"> <a href="https://twitter.com/tankparimal" target="blank"><img src="https://img.shields.io/twitter/follow/tankparimal?logo=twitter&style=for-the-badge" alt="tankparimal" /></a> </p>
+![](https://komarev.com/ghpvc/?username=ParimalTank) <p align="left"> <a href="https://twitter.com/tankparimal" target="blank"><img src="https://img.shields.io/twitter/follow/tankparimal?logo=twitter&style=for-the-badge" alt="tankparimal" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,9 @@
 **👋 Hi, My name is ParimalTank.**
 
+- 🌍  I'm based in India
 - 🖥️  See my portfolio at [My Portfolio](http://parimaltank.tk/).
 - ✉️  You can contact me at parimaltank2001@gmail.com
+- 🧠  I'm learning Fullstack , Cloud
 
 ## Web Developer ( 🎯Fullstack Developer )
 
@@ -18,6 +20,7 @@
 <a href="https://linkedin.com/in/parimal-tank-b9aa761aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parimal-tank-b9aa761aa" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/parimal_141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="parimal_141" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/parimaltank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parimaltank" height="30" width="40" /></a>
+ <a href="/https://parimaltank1.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://parimaltank1.blogspot.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,3 +46,7 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parimaltank&show_icons=true&locale=en" alt="parimaltank" /> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parimaltank&" alt="parimaltank" />
+</p>
+
+

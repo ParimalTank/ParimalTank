@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/tankparimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tankparimal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parimal-tank-b9aa761aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parimal-tank-b9aa761aa" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/parimal_141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="parimal_141" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/coder_parimal_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="parimal_141" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/parimaltank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parimaltank" height="30" width="40" /></a>
  <a href="/https://parimaltank1.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://parimaltank1.blogspot.com/" height="30" width="40" /></a>
 </p>

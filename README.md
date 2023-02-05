@@ -43,6 +43,9 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="goole cloud" width="40" height="40"/> </a>
 </p>
+<br>
+<h4>Leetcode Coding Status</h4>
+<img src="https://leetcode.card.workers.dev/parimaltank?theme=default&font=baloo&extension=null"></img>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parimaltank&show_icons=true&locale=en" alt="parimaltank" /> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parimaltank&" alt="parimaltank" />
 </p>
 

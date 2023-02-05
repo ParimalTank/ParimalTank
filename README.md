@@ -11,15 +11,6 @@
 
 ![](https://komarev.com/ghpvc/?username=ParimalTank) <p align="left"> <a href="https://twitter.com/tankparimal" target="blank"><img src="https://img.shields.io/twitter/follow/tankparimal?logo=twitter&style=for-the-badge" alt="tankparimal" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tankparimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tankparimal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parimal-tank-b9aa761aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parimal-tank-b9aa761aa" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/coder_parimal_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="parimal_141" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parimaltank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parimaltank" height="30" width="40" /></a>
- <a href="/https://parimaltank1.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://parimaltank1.blogspot.com/" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="cplusplus" width="40" height="40"/> </a>

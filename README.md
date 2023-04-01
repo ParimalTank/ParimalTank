@@ -3,7 +3,6 @@
 - 🌍  I'm based in India
 - 🖥️  See my portfolio at [My Portfolio](http://parimaltank.tk/).
 - ✉️  You can contact me at parimaltank2001@gmail.com
-- 🧠  I'm learning Fullstack , Cloud
 
 ## Web Developer ( 🎯Fullstack Developer )
 

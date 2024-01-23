@@ -66,5 +66,5 @@ https://parimal-spotify.vercel.app/
 Spotify Premium Version Clone(Stripe Payment Gateway): 
 https://spotifypremium.vercel.app/
 
-Crypto Currency Site(Added a Meta Meta Mask Wallets): 
+Crypto Currency Site(Added a Meta Mask Wallets): 
 https://parimal-coin-exchange-site.vercel.app/

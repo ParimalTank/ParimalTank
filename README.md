@@ -68,3 +68,6 @@ https://spotifypremium.vercel.app/
 
 Crypto Currency Site(Added a Meta Mask Wallets): 
 https://parimal-coin-exchange-site.vercel.app/
+
+ERC20 TOKEN BUY & SELL Site(Block Chain): 
+https://parimaltank.github.io/Parimal_ERC20-Token/

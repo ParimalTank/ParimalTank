@@ -49,5 +49,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parimaltank&show_icons=true&locale=en" alt="parimaltank" /> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parimaltank&" alt="parimaltank" />
 </p>
 
+Parimal Cricket Score Web Apps :)
+https://cricket-score-apps.vercel.app/
 
-https://github.com/developedbyed/next-pages-examples

@@ -49,6 +49,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parimaltank&show_icons=true&locale=en" alt="parimaltank" /> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parimaltank&" alt="parimaltank" />
 </p>
 
-Parimal Cricket Score Web Apps :)
-https://cricket-score-apps.vercel.app/
+Some Live Projects :)
 
+Cricket Score Web Apps:  https://cricket-score-apps.vercel.app/
+Jobs Searching - React Native: https://parimal-react-native-expo.vercel.app/
+Open-Ai-Gpt-Article-Summarizer(Integrated GPT4 Premium Version) : https://parimal-summarizer.vercel.app/
+Spotify Normal Version:  https://parimal-spotify.vercel.app/
+Spotify Premium Version Clone(Stripe Payment Gateway) : https://spotifypremium.vercel.app/
+Crypto Currency Site(Added a Meta Meta Mask Wallets): https://parimal-coin-exchange-site.vercel.app/

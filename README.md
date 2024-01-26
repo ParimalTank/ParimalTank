@@ -71,3 +71,6 @@ https://parimal-coin-exchange-site.vercel.app/
 
 ERC20 TOKEN BUY & SELL Site(Block Chain): (Meta Mask Wallet Required to Buy)
 https://parimaltank.github.io/Parimal_ERC20-Token/
+
+Transfer T BNB Coin/Token From One Account to Another Account(BNB Chains):-
+https://parimal-wallet-connect.vercel.app/

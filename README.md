@@ -52,6 +52,7 @@
 Some Live Projects :)
 
 Expense Manager:- Where Manage the Expense in Solo or Group (you can add your friend by adding Email)
+
 https://parimal-expense-manager.onrender.com/
 
 Cricket Score Web Apps:  

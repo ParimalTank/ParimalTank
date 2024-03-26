@@ -51,7 +51,7 @@
 
 Some Live Projects :)
 
-Expense Manager:- Where Manage the Expense in Solo or Group (you can add your friend by adding Email)
+Expense Manager:- Where Manage the Expense in Solo or Group (you can add your friend by adding Email) (To open the project URL, it takes some time such as 30sec to 60sec because of 3rd party free domain)
 
 https://parimal-expense-manager.onrender.com/
 

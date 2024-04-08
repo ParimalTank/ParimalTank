@@ -49,37 +49,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parimaltank&show_icons=true&locale=en" alt="parimaltank" /> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parimaltank&" alt="parimaltank" />
 </p>
 
-Some Live Projects :)
-
-Expense Manager:- Where Manage the Expense in Solo or Group (you can add your friend by adding Email) (To open the project URL, it takes some time such as 30sec to 60sec because of 3rd party free domain)
-
-https://parimal-expense-manager.onrender.com/
-
-Cricket Score Web Apps:  
-https://cricket-score-apps.vercel.app/
-
-Jobs Searching - React Native: 
-https://parimal-react-native-expo.vercel.app/
-
-Spotify Normal Version:  
-https://parimal-spotify.vercel.app/
-
-Spotify Premium Version Clone(Stripe Payment Gateway): 
-https://spotifypremium.vercel.app/
-
-AI:-
-
-Open-Ai-Gpt-Article-Summarizer(Integrated GPT4 Premium Version): 
-https://parimal-summarizer.vercel.app/
-
-
-Blockchain:-
-
-Crypto Currency Site(Added a Meta Mask Wallets): 
-https://parimal-coin-exchange-site.vercel.app/
-
-ERC20 TOKEN BUY & SELL Site(Block Chain): (Meta Mask Wallet Required to Buy)
-https://parimaltank.github.io/Parimal_ERC20-Token/
-
-Transfer T BNB Coin/Token From One Account to Another Account(BNB Chains):-
-https://parimal-wallet-connect.vercel.app/

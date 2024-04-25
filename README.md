@@ -2,7 +2,6 @@
 
 - 🌍  I'm based in India
 - 🖥️  See my portfolio at [My Portfolio](http://parimaltank.tk/).
-- ✉️  You can contact me at parimaltank2001@gmail.com
 
 ## Web Developer ( 🎯A passionate Fullstack Web Developer from India )
 

@@ -2,11 +2,14 @@
 
 - 🌍  I'm based in India
 - 🖥️  See my portfolio at [My Portfolio](http://parimaltank.tk/).
-- 📧  Reach out me :- parimaltank.in@gmail.com
+- 📧  Reach out me:- parimaltank.in@gmail.com
 
 ## Software Engineer ( 🎯A passionate Fullstack Web Developer from India )
 
-
+### 🎯 About Me:
+- 🚀 I specialize in building **modern web applications**.  
+- 🌐 Proficient in **Frontend, Backend, and Fullstack Development**.  
+- 📈 Experienced in **Generative AI, Blockchain Integration, and Microservices Architecture**.  
 
 ![](https://komarev.com/ghpvc/?username=ParimalTank) <p align="left"> <a href="https://twitter.com/tankparimal" target="blank"><img src="https://img.shields.io/twitter/follow/tankparimal?logo=twitter&style=for-the-badge" alt="tankparimal" /></a> </p>
 

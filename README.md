@@ -43,9 +43,13 @@
 <a href="https://www.codechef.com/users/parimal_141" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parimal_141" height="30" width="40" /></a>
 <a href="https://parimaltank1.blogspot.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://parimaltank1.blogspot.com/" height="30" width="40" /></a>
 </p>
-<br>
+<be>
+
 <h4>Leetcode Coding Status</h4>
 <img src="https://leetcode.card.workers.dev/parimaltank?theme=default&font=baloo&extension=null"></img>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parimaltank&show_icons=true&locale=en" alt="parimaltank" /> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parimaltank&" alt="parimaltank" />
 </p>
 
+<p>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+</p>

@@ -50,7 +50,7 @@
 
 <h4>Leetcode Coding Status</h4>
 <img src="https://leetcode.card.workers.dev/parimaltank?theme=default&font=baloo&extension=null"></img>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parimaltank&show_icons=true&locale=en" alt="parimaltank" /> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parimaltank&" alt="parimaltank" />
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parimaltank&" alt="parimaltank" />
 </p>
 
 <p>

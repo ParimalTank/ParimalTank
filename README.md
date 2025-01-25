@@ -50,8 +50,9 @@
 
 <h4>Leetcode Coding Status</h4>
 <img src="https://leetcode.card.workers.dev/parimaltank?theme=default&font=baloo&extension=null"></img>
-<p>Contribution &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parimaltank&" alt="parimaltank" />
-</p>
+
+<h4>Contribution</h4>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parimaltank&" alt="parimaltank" /></p>
 
 <p>
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>

@@ -4,7 +4,7 @@
 - 🖥️  See my portfolio at [My Portfolio](http://parimaltank.tk/).
 - 📧  Reach out me:- parimaltank.in@gmail.com
 
-## Software Engineer ( 🎯A passionate Fullstack Web Developer)
+## Software Engineer ( 🎯A passionate Fullstack Web Engineer)
 
 ### 🎯 About Me:
 - 🚀 I specialize in building **modern web applications**.  

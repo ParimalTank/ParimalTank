@@ -2,7 +2,6 @@
 
 - 🌍  I'm based in India
 - 🖥️  See my portfolio at [My Portfolio](http://parimaltank.tk/).
-- 📧  Reach out to me:- parimaltank.tech@gmail.com
 
 ## Software Engineer ( 🎯A passionate Fullstack Web Engineer)
 

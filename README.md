@@ -127,6 +127,6 @@ Whether you need a robust web application, a smart automation pipeline, or an AI
 ---
 
 <p align="center">
-  <b>💬 Have a project in mind? Let's build something great together.</b><br/>
+  <b>Let's build something great together.</b><br/>
   <a href="mailto:parimaltank.in@gmail.com">Reach out → parimaltank.in@gmail.com</a>
 </p>

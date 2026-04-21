@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer · Fullstack Developer · Agentic AI & Automation Enthusiast</h3>
 
 <p align="center">
-  <a href="http://parimaltank.tk/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="http://parimaltank.in/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://twitter.com/tankparimal" target="_blank"><img src="https://img.shields.io/twitter/follow/tankparimal?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
   <a href="https://www.linkedin.com/in/parimal-tank-b9aa761aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>

@@ -92,10 +92,10 @@ I enjoy transforming complex business problems into scalable and production-read
 
 ---
 
-# 🐍 Contribution Graph
+# Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 </p>
 
 ---

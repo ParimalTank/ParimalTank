@@ -82,9 +82,6 @@ I enjoy transforming complex business problems into scalable and production-read
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParimalTank&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParimalTank&theme=tokyonight&hide_border=true" />
 </p>
 

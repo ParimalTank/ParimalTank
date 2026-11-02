@@ -7,24 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="http://parimaltank.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/parimal-tank-b9aa761aa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://twitter.com/tankparimal" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/tankparimal?style=for-the-badge&logo=twitter" />
-  </a>
-
-  <a href="https://calendly.com/parimaltank2001/30min" target="_blank">
-    <img src="https://img.shields.io/badge/Book%20a%20Call-06b178?style=for-the-badge&logo=googlemeet&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ParimalTank&style=flat-square&color=06b178" />
 </p>
 
@@ -102,26 +84,6 @@ I enjoy transforming complex business problems into scalable and production-read
 - Exploring MCP & intelligent tool orchestration
 - Creating production-ready AI workflows
 - Helping startups scale from MVP → Production
-
----
-
-# 🌍 Let's Connect
-
-<p align="center">
-  <a href="mailto:parimaltank.in@gmail.com">
-    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://calendly.com/parimaltank2001/30min">
-    <img src="https://img.shields.io/badge/Schedule%20Meeting-06b178?style=for-the-badge&logo=googlecalendar&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/ParimalTank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06B178&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developer;AI+Automation+Engineer;Building+Modern+Digital+Products;Open+Source+Enthusiast;Always+Learning+New+Things" />
